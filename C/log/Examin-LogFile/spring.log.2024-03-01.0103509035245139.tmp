@@ -1,0 +1,4 @@
+2024-03-02T00:33:38.041+01:00  WARN 37491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m12s114ms).
+2024-03-02T02:34:31.713+01:00  WARN 37491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h31m53s371ms).
+2024-03-02T03:10:36.074+01:00  WARN 37491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m4s45ms).
+2024-03-02T03:43:01.344+01:00  WARN 37491 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=32m25s270ms).
